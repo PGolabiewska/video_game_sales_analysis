@@ -1,0 +1,15 @@
+## Business questions
+
+# Dataset: https://mavenanalytics.io/data-playground/video-game-sales
+
+Understanding the Problem and the Data:
+1. What is the goal or problem we are trying to solve?
+2. What variables are present in the dataset and what do they represent?
+3. What types of data are available (numerical, categorical, text etc.)?
+4. Are there any data quality issues or limitations?
+
+Analyzing the results allows for addressing key business questions: 
+- Identifying bestsellers—titles achieving the highest global sales
+- Temporal trends—determining which years saw the largest market share and whether the industry is volatile
+- Hardware specialization—whether specific consoles are linked to particular game genres
+- Regional preferences—games that are hits in one region but fail in others.
